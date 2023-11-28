@@ -1,7 +1,7 @@
 # QT-F15-HUD
 F15 - Head Up Display with QT-QML
 
-This is a sample Head-Up Display (HUD) project developed using QT and QML.
+https://github.com/yahyasungur/QT-F15-HUD/assets/57198059/f9145a54-6f65-4ea2-9d70-576da305c7a4
 
 ## Technologies Used
 
