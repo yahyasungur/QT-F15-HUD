@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/AircraftDatum.qml</file>
+        <file>ui/GunCross.qml</file>
+        <file>ui/VelocityVector.qml</file>
+        <file>ui/AirspeedScale.qml</file>
+        <file>ui/AltitudeScale.qml</file>
+        <file>ui/HeadingScale.qml</file>
+        <file>ui/GInformation.qml</file>
+        <file>ui/FlightDetail.qml</file>
+        <file>ui/PitchScale.qml</file>
+        <file>ui/assets/IDS.png</file>
+        <file>ui/BankSteeringIndex.qml</file>
+    </qresource>
+</RCC>
